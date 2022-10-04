@@ -12,3 +12,4 @@
 
 * What are the pros and cons of each slide creation tool?
 * Let's create a list of best practices for teaching with slides.
+* When do you think it is better to teach using the chalkboard versus using slides?
